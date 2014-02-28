@@ -1,0 +1,43 @@
+body {
+  background-color: black;  
+  color:white;
+}
+
+form {
+  width: 250px;
+}
+
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: green;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+@media(max-width 600px) {
+
+}
+
+.color {
+  color: white;
+}
+
+td {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+  color:black;
+}
+
+
+tr{ 
+  background: gray;
+
+}
+
